@@ -25,6 +25,7 @@
   ## Description
 
   A site that will allow the user to sign up and view and save a list of books using a google api.
+  ![Image of the book search site](./client/public/img.png)
   
   ## Installation
   npm install
