@@ -31,7 +31,8 @@
   npm install
   
   ## Usage
-  npm start (Site not yet deployed correctly at: https://powerful-lowlands-01837.herokuapp.com/)
+  go to web browser and open.
+  [Heroku Deployment](https://powerful-lowlands-01837.herokuapp.com/)
   
   ## License
   
